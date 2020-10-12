@@ -2,9 +2,16 @@
 This is a sample project, made for BS-23
 
 Requirements:
+
+
 Java version: open JDK 11
+
+
 Node: 10.1.0
+
 Npm: 6.1.4
+
+
 Angular: 10.0.1
 
 Instruction for run the application:
@@ -14,8 +21,13 @@ Backend:
 this will start the application on port 8083
 
 frontend:
-cd bs23frontend
+
+
+cd bs23frontend 
+
 npm install
+
+
 ng serve
 
 this will start the application on port 4200
