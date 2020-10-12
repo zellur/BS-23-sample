@@ -23,7 +23,7 @@ this will start the application on port 8083
 frontend:
 
 
-cd bs23frontend 
+cd brainstation23frontend 
 
 npm install
 
