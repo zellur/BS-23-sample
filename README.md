@@ -32,7 +32,7 @@ ng serve
 
 this will start the application on port 4200
 
-Make sure you imported the travel23.sql in any mysql db on running port 3306
+Make sure you imported the travel23.sql in mysql on running port 3306
 
 There also a demo video to show you overall interface
 
