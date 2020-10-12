@@ -34,6 +34,8 @@ this will start the application on port 4200
 
 Make sure you imported the travel23.sql in mysql on running port 3306
 
+replace db user name and password on application.properties file
+
 There also a demo video to show you overall interface
 
 Please send a mail on zellurakib1234@gmail.com if you find any difficulties to run the applicatin
